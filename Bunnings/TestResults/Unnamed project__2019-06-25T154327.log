@@ -1,0 +1,96 @@
+﻿2019-06-25T15:43:27.0150396+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-25T15:43:27.0150396+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-25T15:43:27.0150396+10:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Daniel\Desktop\Side project\Bunnings\Bunnings.Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-25T15:43:27.1840397+10:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Daniel\Desktop\Side project\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T15:43:27.1850392+10:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Daniel\Desktop\Side project\Bunnings\TestResults" (default)
+2019-06-25T15:43:27.1850392+10:00;VSTestExecutionThread;Info;Profile: 
+2019-06-25T15:43:27.2120398+10:00;VSTestExecutionThread;Info;Log file path: C:\Users\Daniel\Desktop\Side project\Bunnings\TestResults\Unnamed project__2019-06-25T154327.log
+2019-06-25T15:43:27.2130394+10:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T15:43:27.2230384+10:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-25T15:43:27.2290390+10:00;Thread#13;Info;Checking license
+2019-06-25T15:43:27.2290390+10:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T15:43:27.2300402+10:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T15:43:27.2420382+10:00;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-06-25T15:43:37.2440383+10:00;Thread#13;Info;Evaluation delay finished.
+2019-06-25T15:43:37.2490384+10:00;Thread#13;Info;License check completed
+2019-06-25T15:43:37.2490384+10:00;Thread#13;Info;starting test run
+2019-06-25T15:43:37.2570399+10:00;Thread#13;Info;Discovering target: Default
+2019-06-25T15:43:37.2570399+10:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Daniel\Desktop\Side project\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T15:43:37.5890415+10:00:Appdomain Disposed
+2019-06-25T15:43:37.5890415+10:00;Thread#13;Info;Discovered tests from assembly: C:\Users\Daniel\Desktop\Side project\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T15:43:37.5900412+10:00:Test Suite Dump
+2019-06-25T15:43:37.5920384+10:00:#0: Unnamed project/ - 
+2019-06-25T15:43:37.5920384+10:00:#1: Default - 
+2019-06-25T15:43:37.5920384+10:00:#2: Bunnings.Specflow - 
+2019-06-25T15:43:37.5920384+10:00:#3: Add an item to Wish List - 
+2019-06-25T15:43:37.6240388+10:00:#4: Add an item to Wish List - TestAssembly:Bunnings.Specflow/Feature:Add+an+item+to+Wish+List/Scenario:Add+an+item+to+Wish+List
+2019-06-25T15:43:37.6240388+10:00:End: Test Suite Dump
+2019-06-25T15:43:37.6450389+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T15:43:37.6470381+10:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-25T15:43:37.6470381+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T15:43:37.6510379+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T15:43:37.6510379+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T15:43:37.6510379+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T15:43:37.6510379+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T15:43:37.6520380+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T15:43:37.6530387+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-25T15:43:37.6560405+10:00:Thread #0: creating new test thread executor for Bunnings.Specflow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-25T15:43:37.6580389+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T15:43:37.6580389+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T15:43:37.6580389+10:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-25T15:43:37.7100386+10:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-25T15:43:37.8440386+10:00:Thread#0:T:-> Loading plugin C:\Users\Daniel\Desktop\Side project\Bunnings\Bunnings.Specflow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-06-25T15:43:37.8490397+10:00:Thread#0:T:-> Using default config
+2019-06-25T15:43:38.0690386+10:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-25T15:43:38.0690386+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T15:43:38.0690386+10:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-25T15:43:38.0690386+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T15:43:38.0690386+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T15:43:38.0690386+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T15:43:38.0690386+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T15:43:38.0690386+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T15:43:38.0690386+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T15:43:38.0690386+10:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-25T15:43:38.0711340+10:00:Thread#0:T:ok~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2019-06-25T15:43:38.0820387+10:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0.3709996 seconds
+2019-06-25T15:43:38.0830392+10:00:Thread#0: Test #4/1 is started on thread #0
+2019-06-25T15:43:38.0850385+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T15:43:38.0850385+10:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-25T15:43:38.0850385+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T15:43:38.0850385+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T15:43:38.0850385+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T15:43:38.0850385+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T15:43:38.0850385+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T15:43:38.0850385+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T15:43:38.0850385+10:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-25T15:43:38.0850385+10:00:Thread#0:T:ok~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2019-06-25T15:43:38.0860396+10:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0.0030004 seconds
+2019-06-25T15:43:38.0860396+10:00:Thread#0: Test #4/2 is started on thread #0
+2019-06-25T15:43:38.0880409+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T15:43:38.0880409+10:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-25T15:43:38.0880409+10:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-25T15:43:38.0880409+10:00:Thread#0:Scheduler: No more tests for thread
+2019-06-25T15:43:38.0880409+10:00:Thread#0:T:ok~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2019-06-25T15:43:38.0890399+10:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0.0030003 seconds
+2019-06-25T15:43:38.1010387+10:00:Appdomain Disposed
+2019-06-25T15:43:38.1020459+10:00:Trying to cancel thread
+2019-06-25T15:43:38.1020459+10:00:Thread cancelled
+2019-06-25T15:43:38.1090380+10:00:Thread#-1:Scheduler: get next test for thread -1
+2019-06-25T15:43:38.1090380+10:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-25T15:43:38.1090380+10:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-25T15:43:38.1130382+10:00;Thread#13;Info;test run finished
+2019-06-25T15:43:38.1130382+10:00;Thread#13;Info;publishing test results
+2019-06-25T15:43:38.1360384+10:00;Thread#13;Info;test results published
+2019-06-25T15:43:38.1360384+10:00;Thread#13;Info;generating reports
+2019-06-25T15:43:38.2460413+10:00;Thread#13;Info;Starting external report generation process
+2019-06-25T15:43:39.7950385+10:00;Thread#13;Info;Successfully generated reports.
+2019-06-25T15:43:39.7960410+10:00;Thread#13;Info;Successfully generated reports
+2019-06-25T15:43:39.8040386+10:00:Total: 1 (test executions: 3)
+2019-06-25T15:43:39.8080394+10:00:Succeeded: 0
+2019-06-25T15:43:39.8080394+10:00:Ignored: 0
+2019-06-25T15:43:39.8090409+10:00:Pending: 0
+2019-06-25T15:43:39.8090409+10:00:Skipped: 0
+2019-06-25T15:43:39.8100393+10:00:Failed: 1
+2019-06-25T15:43:39.8220410+10:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-25T15:43:39.8220410+10:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Daniel\Desktop\Side project\Bunnings\TestResults\Unnamed project__2019-06-25T154327.html'
+========== End of log file ==========

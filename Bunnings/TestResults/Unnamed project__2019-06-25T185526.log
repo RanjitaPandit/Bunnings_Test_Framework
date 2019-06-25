@@ -1,0 +1,71 @@
+﻿2019-06-25T18:55:26.4432590+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-25T18:55:26.4432590+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-25T18:55:26.4432590+10:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Ranjita\Desktop\New\New\Bunnings\Bunnings.Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-25T18:55:26.4899810+10:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Ranjita\Desktop\New\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T18:55:26.4899810+10:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Ranjita\Desktop\New\New\Bunnings\TestResults" (default)
+2019-06-25T18:55:26.4899810+10:00;VSTestExecutionThread;Info;Profile: 
+2019-06-25T18:55:26.5118942+10:00;VSTestExecutionThread;Info;Log file path: C:\Users\Ranjita\Desktop\New\New\Bunnings\TestResults\Unnamed project__2019-06-25T185526.log
+2019-06-25T18:55:26.5138908+10:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T18:55:26.5198744+10:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-25T18:55:26.5248982+10:00;Thread#15;Info;Checking license
+2019-06-25T18:55:26.5259222+10:00;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T18:55:26.5268547+10:00;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T18:55:26.5420152+10:00;Thread#15;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-06-25T18:55:40.5431292+10:00;Thread#15;Info;Evaluation delay finished.
+2019-06-25T18:55:40.5481664+10:00;Thread#15;Info;License check completed
+2019-06-25T18:55:40.5481664+10:00;Thread#15;Info;starting test run
+2019-06-25T18:55:40.5551679+10:00;Thread#15;Info;Discovering target: Default
+2019-06-25T18:55:40.5551679+10:00;Thread#15;Info;Discovering tests from assembly: C:\Users\Ranjita\Desktop\New\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T18:55:40.6076246+10:00:Appdomain Disposed
+2019-06-25T18:55:40.6076246+10:00;Thread#15;Info;Discovered tests from assembly: C:\Users\Ranjita\Desktop\New\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T18:55:40.6080122+10:00:Test Suite Dump
+2019-06-25T18:55:40.6090115+10:00:#0: Unnamed project/ - 
+2019-06-25T18:55:40.6090115+10:00:#1: Default - 
+2019-06-25T18:55:40.6090115+10:00:#2: Bunnings.Specflow - 
+2019-06-25T18:55:40.6090115+10:00:#3: Add an item to Wish List - 
+2019-06-25T18:55:40.6259641+10:00:#4: Add an item to Wish List - TestAssembly:Bunnings.Specflow/Feature:Add+an+item+to+Wish+List/Scenario:Add+an+item+to+Wish+List
+2019-06-25T18:55:40.6259641+10:00:End: Test Suite Dump
+2019-06-25T18:55:40.6459608+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T18:55:40.6469087+10:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-25T18:55:40.6469087+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T18:55:40.6595658+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T18:55:40.6595658+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T18:55:40.6595658+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T18:55:40.6595658+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T18:55:40.6606124+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T18:55:40.6606124+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-25T18:55:40.6636078+10:00:Thread #0: creating new test thread executor for Bunnings.Specflow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-25T18:55:40.6646215+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T18:55:40.6646215+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T18:55:40.6655494+10:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-25T18:55:41.1322530+10:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-25T18:55:41.4342975+10:00:Thread#0:T:-> Loading plugin C:\Users\Ranjita\Desktop\New\New\Bunnings\Bunnings.Specflow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-06-25T18:55:41.4751870+10:00:Thread#0:T:-> Using default config
+2019-06-25T18:55:55.2447741+10:00:Thread#0:B:Given I click on Search Bar and enter the keyword
+2019-06-25T18:56:00.1077172+10:00:Thread#0:T:done: AddItem.GivenIClickOnSearchBar() (4.8s)
+2019-06-25T18:56:00.1165877+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T18:56:00.1165877+10:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-25T18:56:00.1165877+10:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-25T18:56:00.1165877+10:00:Thread#0:Scheduler: No more tests for thread
+2019-06-25T18:56:02.2301070+10:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 21.0968572 seconds
+2019-06-25T18:56:02.2430715+10:00:Appdomain Disposed
+2019-06-25T18:56:02.2450660+10:00:Trying to cancel thread
+2019-06-25T18:56:02.2450660+10:00:Thread cancelled
+2019-06-25T18:56:02.2560365+10:00:Thread#-1:Scheduler: get next test for thread -1
+2019-06-25T18:56:02.2560365+10:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-25T18:56:02.2560365+10:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-25T18:56:02.2580310+10:00;Thread#15;Info;test run finished
+2019-06-25T18:56:02.2580310+10:00;Thread#15;Info;publishing test results
+2019-06-25T18:56:02.3039089+10:00;Thread#15;Info;test results published
+2019-06-25T18:56:02.3039089+10:00;Thread#15;Info;generating reports
+2019-06-25T18:56:02.4156101+10:00;Thread#15;Info;Starting external report generation process
+2019-06-25T18:56:10.9734022+10:00;Thread#15;Info;Successfully generated reports.
+2019-06-25T18:56:10.9763940+10:00;Thread#15;Info;Successfully generated reports
+2019-06-25T18:56:10.9853370+10:00:Total: 1
+2019-06-25T18:56:10.9873321+10:00:Succeeded: 1
+2019-06-25T18:56:10.9883653+10:00:Ignored: 0
+2019-06-25T18:56:10.9883653+10:00:Pending: 0
+2019-06-25T18:56:10.9883653+10:00:Skipped: 0
+2019-06-25T18:56:10.9893266+10:00:Failed: 0
+2019-06-25T18:56:11.0023070+10:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

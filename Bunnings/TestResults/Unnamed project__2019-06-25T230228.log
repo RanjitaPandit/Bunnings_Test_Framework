@@ -1,0 +1,115 @@
+﻿2019-06-25T23:02:28.8531570+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-25T23:02:28.8531570+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-25T23:02:28.8531570+10:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-25T23:02:28.9020247+10:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T23:02:28.9020247+10:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\TestResults" (default)
+2019-06-25T23:02:28.9020247+10:00;VSTestExecutionThread;Info;Profile: 
+2019-06-25T23:02:28.9179485+10:00;VSTestExecutionThread;Info;Log file path: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\TestResults\Unnamed project__2019-06-25T230228.log
+2019-06-25T23:02:28.9199410+10:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T23:02:28.9249279+10:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-25T23:02:28.9299584+10:00;Thread#15;Info;Checking license
+2019-06-25T23:02:28.9299584+10:00;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T23:02:28.9309120+10:00;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T23:02:28.9419159+10:00;Thread#15;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-06-25T23:02:33.9433074+10:00;Thread#15;Info;Evaluation delay finished.
+2019-06-25T23:02:33.9583132+10:00;Thread#15;Info;License check completed
+2019-06-25T23:02:33.9583132+10:00;Thread#15;Info;starting test run
+2019-06-25T23:02:33.9702830+10:00;Thread#15;Info;Discovering target: Default
+2019-06-25T23:02:33.9702830+10:00;Thread#15;Info;Discovering tests from assembly: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T23:02:34.0173725+10:00:Appdomain Disposed
+2019-06-25T23:02:34.0173725+10:00;Thread#15;Info;Discovered tests from assembly: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T23:02:34.0183014+10:00:Test Suite Dump
+2019-06-25T23:02:34.0193326+10:00:#0: Unnamed project/ - 
+2019-06-25T23:02:34.0193326+10:00:#1: Default - 
+2019-06-25T23:02:34.0193326+10:00:#2: Bunnings.Specflow - 
+2019-06-25T23:02:34.0193326+10:00:#3: Add an item to Wish List - 
+2019-06-25T23:02:34.0332635+10:00:#4: Add an item to Wish List - TestAssembly:Bunnings.Specflow/Feature:Add+an+item+to+Wish+List/Scenario:Add+an+item+to+Wish+List
+2019-06-25T23:02:34.0332635+10:00:End: Test Suite Dump
+2019-06-25T23:02:34.0522599+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T23:02:34.0532525+10:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-25T23:02:34.0532525+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T23:02:34.0562443+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T23:02:34.0562443+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T23:02:34.0562443+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T23:02:34.0562443+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T23:02:34.0571979+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T23:02:34.0571979+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-25T23:02:34.0592408+10:00:Thread #0: creating new test thread executor for Bunnings.Specflow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-25T23:02:34.0602375+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T23:02:34.0602375+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T23:02:34.0602375+10:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-25T23:02:34.1078843+10:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-25T23:02:34.3189435+10:00:Thread#0:T:-> Loading plugin C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-06-25T23:02:34.3239453+10:00:Thread#0:T:-> Using default config
+2019-06-25T23:02:42.0871514+10:00:Thread#0:B:Given I click on Search Bar and enter the keyword
+2019-06-25T23:02:45.0928615+10:00:Thread#0:T:done: AddItem.GivenIClickOnSearchBar() (3.0s)
+2019-06-25T23:02:45.0938588+10:00:Thread#0:B:Given Select an Item from the Product List
+2019-06-25T23:02:48.0595004+10:00:Thread#0:T:done: AddItem.GivenSelectAnItemFromTheProductList() (3.0s)
+2019-06-25T23:02:48.0605084+10:00:Thread#0:B:Given I enter Product details
+2019-06-25T23:02:48.3577043+10:00:Thread#0:T:done: AddItem.GivenIEnterProductDetails() (0.3s)
+2019-06-25T23:02:48.3587016+10:00:Thread#0:B:When I click on Add to Wish List
+2019-06-25T23:02:48.5152849+10:00:Thread#0:T:done: AddItem.WhenIClickOnAddToWishList() (0.2s)
+2019-06-25T23:02:48.5162791+10:00:Thread#0:B:Then The item should Successfully be added to My Wish List
+2019-06-25T23:02:50.7921073+10:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='content - layout_inside - anchor']/div[1]/section[2]/p[1]/strong"}
+2019-06-25T23:02:50.7921073+10:00:Thread#0:T:  (Session info: chrome=75.0.3770.100)
+2019-06-25T23:02:50.7921073+10:00:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+2019-06-25T23:02:50.8280495+10:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-25T23:02:50.8280495+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T23:02:50.8290088+10:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-25T23:02:50.8290088+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T23:02:50.8290088+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T23:02:50.8290088+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T23:02:50.8290088+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T23:02:50.8290088+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T23:02:50.8290088+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T23:02:50.8290088+10:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-25T23:02:52.9358228+10:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 18.8269418 seconds
+2019-06-25T23:02:52.9378173+10:00:Thread#0: Test #4/1 is started on thread #0
+2019-06-25T23:03:01.8013294+10:00:Thread#0:B:Given I click on Search Bar and enter the keyword
+2019-06-25T23:03:03.7759043+10:00:Thread#0:T:done: AddItem.GivenIClickOnSearchBar() (2.0s)
+2019-06-25T23:03:03.7759043+10:00:Thread#0:B:Given Select an Item from the Product List
+2019-06-25T23:03:03.7898676+10:00:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-25T23:03:03.7898676+10:00:Thread#0:B:Given I enter Product details
+2019-06-25T23:03:03.7898676+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T23:03:03.7908648+10:00:Thread#0:B:When I click on Add to Wish List
+2019-06-25T23:03:03.7908648+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T23:03:03.7908648+10:00:Thread#0:B:Then The item should Successfully be added to My Wish List
+2019-06-25T23:03:03.7908648+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T23:03:03.7928594+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T23:03:03.7928594+10:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-25T23:03:03.7928594+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T23:03:03.7928594+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T23:03:03.7928594+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T23:03:03.7928594+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T23:03:03.7928594+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T23:03:03.7928594+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T23:03:03.7928594+10:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-25T23:03:03.8387362+10:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 10.9009189 seconds
+2019-06-25T23:03:03.8387362+10:00:Thread#0: Test #4/2 is started on thread #0
+2019-06-25T23:03:03.8397335+10:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.
+2019-06-25T23:03:10.0803412+10:00:Thread#0:B:Given I click on Search Bar and enter the keyword
+2019-06-25T23:03:10.0953017+10:00:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-25T23:03:10.0953017+10:00:Thread#0:B:Given Select an Item from the Product List
+2019-06-25T23:03:10.0953017+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T23:03:10.0953017+10:00:Thread#0:B:Given I enter Product details
+2019-06-25T23:03:10.0953017+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T23:03:10.0962985+10:00:Thread#0:B:When I click on Add to Wish List
+2019-06-25T23:03:10.0962985+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T23:03:10.0962985+10:00:Thread#0:B:Then The item should Successfully be added to My Wish List
+2019-06-25T23:03:10.0962985+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T23:03:10.0972958+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T23:03:10.0972958+10:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-25T23:03:10.0972958+10:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-25T23:03:10.0972958+10:00:Thread#0:Scheduler: No more tests for thread
+2019-06-25T23:03:10.1302076+10:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 6.2914714 seconds
+2019-06-25T23:03:10.1441699+10:00:Appdomain Disposed
+2019-06-25T23:03:10.1471622+10:00:Trying to cancel thread
+2019-06-25T23:03:10.1471622+10:00:Thread cancelled
+2019-06-25T23:03:10.1631195+10:00:Thread#-1:Scheduler: get next test for thread -1
+2019-06-25T23:03:10.1631195+10:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-25T23:03:10.1631195+10:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-25T23:03:10.1760850+10:00;Thread#15;Info;test run finished
+2019-06-25T23:03:10.1760850+10:00;Thread#15;Info;publishing test results
+2019-06-25T23:03:10.2359252+10:00;Thread#15;Info;test results published
+2019-06-25T23:03:10.2369265+10:00;Thread#15;Info;generating reports
+2019-06-25T23:03:10.3456323+10:00;Thread#15;Info;Starting external report generation process

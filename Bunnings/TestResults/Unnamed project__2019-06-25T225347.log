@@ -1,0 +1,92 @@
+﻿2019-06-25T22:53:47.3108420+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-25T22:53:47.3108420+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-25T22:53:47.3108420+10:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-25T22:53:47.3597035+10:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T22:53:47.3597035+10:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\TestResults" (default)
+2019-06-25T22:53:47.3607018+10:00;VSTestExecutionThread;Info;Profile: 
+2019-06-25T22:53:47.3767218+10:00;VSTestExecutionThread;Info;Log file path: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\TestResults\Unnamed project__2019-06-25T225347.log
+2019-06-25T22:53:47.3776559+10:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T22:53:47.3826417+10:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-25T22:53:47.3866719+10:00;Thread#15;Info;Checking license
+2019-06-25T22:53:47.3866719+10:00;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T22:53:47.3866719+10:00;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T22:53:47.3976089+10:00;Thread#15;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-06-25T22:53:59.3986972+10:00;Thread#15;Info;Evaluation delay finished.
+2019-06-25T22:53:59.4096563+10:00;Thread#15;Info;License check completed
+2019-06-25T22:53:59.4096563+10:00;Thread#15;Info;starting test run
+2019-06-25T22:53:59.4226326+10:00;Thread#15;Info;Discovering target: Default
+2019-06-25T22:53:59.4236289+10:00;Thread#15;Info;Discovering tests from assembly: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T22:53:59.4714941+10:00:Appdomain Disposed
+2019-06-25T22:53:59.4714941+10:00;Thread#15;Info;Discovered tests from assembly: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T22:53:59.4724538+10:00:Test Suite Dump
+2019-06-25T22:53:59.4734861+10:00:#0: Unnamed project/ - 
+2019-06-25T22:53:59.4734861+10:00:#1: Default - 
+2019-06-25T22:53:59.4734861+10:00:#2: Bunnings.Specflow - 
+2019-06-25T22:53:59.4734861+10:00:#3: Add an item to Wish List - 
+2019-06-25T22:53:59.4877711+10:00:#4: Add an item to Wish List - TestAssembly:Bunnings.Specflow/Feature:Add+an+item+to+Wish+List/Scenario:Add+an+item+to+Wish+List
+2019-06-25T22:53:59.4877711+10:00:End: Test Suite Dump
+2019-06-25T22:53:59.5047699+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T22:53:59.5057667+10:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-25T22:53:59.5057667+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T22:53:59.5087564+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T22:53:59.5087564+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T22:53:59.5087564+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T22:53:59.5087564+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T22:53:59.5087564+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T22:53:59.5107114+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-25T22:53:59.5127429+10:00:Thread #0: creating new test thread executor for Bunnings.Specflow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-25T22:53:59.5137458+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T22:53:59.5137458+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T22:53:59.5137458+10:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-25T22:53:59.5612183+10:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-25T22:53:59.7750407+10:00:Thread#0:T:-> Loading plugin C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-06-25T22:53:59.7790986+10:00:Thread#0:T:-> Using default config
+2019-06-25T22:54:07.7081132+10:00:Thread#0:B:Given I click on Search Bar and enter the keyword
+2019-06-25T22:54:11.3249796+10:00:Thread#0:T:done: AddItem.GivenIClickOnSearchBar() (3.6s)
+2019-06-25T22:54:11.3249796+10:00:Thread#0:B:Given Select an Item from the Product List
+2019-06-25T22:54:14.7347218+10:00:Thread#0:T:done: AddItem.GivenSelectAnItemFromTheProductList() (3.4s)
+2019-06-25T22:54:14.7347218+10:00:Thread#0:B:Given I enter Product details
+2019-06-25T22:54:14.9957462+10:00:Thread#0:T:done: AddItem.GivenIEnterProductDetails() (0.3s)
+2019-06-25T22:54:14.9967440+10:00:Thread#0:B:When I click on Add to Wish List
+2019-06-25T22:54:15.1268365+10:00:Thread#0:T:done: AddItem.WhenIClickOnAddToWishList() (0.1s)
+2019-06-25T22:54:15.1268365+10:00:Thread#0:B:Then The item should Successfully be added to My Wish List
+2019-06-25T22:54:17.4822024+10:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='content - layout_inside - anchor']/div[1]/section[2]/p[1]"}
+2019-06-25T22:54:17.4822024+10:00:Thread#0:T:  (Session info: chrome=75.0.3770.100)
+2019-06-25T22:54:17.4822024+10:00:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+2019-06-25T22:54:17.5181076+10:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-25T22:54:17.5181076+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T22:54:17.5181076+10:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-25T22:54:17.5181076+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T22:54:17.5181076+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T22:54:17.5181076+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T22:54:17.5181076+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T22:54:17.5181076+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T22:54:17.5181076+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T22:54:17.5181076+10:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-25T22:54:19.8624496+10:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 20.3012313 seconds
+2019-06-25T22:54:19.8654414+10:00:Thread#0: Test #4/1 is started on thread #0
+2019-06-25T22:54:25.7138861+10:00:Thread#0:B:Given I click on Search Bar and enter the keyword
+2019-06-25T22:54:25.7168784+10:00:Thread#0:T:error: no such window: target window already closed
+2019-06-25T22:54:25.7168784+10:00:Thread#0:T:from unknown error: web view not found
+2019-06-25T22:54:25.7178757+10:00:Thread#0:T:  (Session info: chrome=75.0.3770.100)
+2019-06-25T22:54:25.7178757+10:00:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+2019-06-25T22:54:25.7178757+10:00:Thread#0:B:Given Select an Item from the Product List
+2019-06-25T22:54:25.7178757+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T22:54:25.7178757+10:00:Thread#0:B:Given I enter Product details
+2019-06-25T22:54:25.7178757+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T22:54:25.7188724+10:00:Thread#0:B:When I click on Add to Wish List
+2019-06-25T22:54:25.7188724+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T22:54:25.7188724+10:00:Thread#0:B:Then The item should Successfully be added to My Wish List
+2019-06-25T22:54:25.7188724+10:00:Thread#0:T:skipped because of previous errors
+2019-06-25T22:54:25.7198702+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T22:54:25.7198702+10:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-25T22:54:25.7198702+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T22:54:25.7198702+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T22:54:25.7198702+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T22:54:25.7198702+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T22:54:25.7198702+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T22:54:25.7198702+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T22:54:25.7198702+10:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-25T22:54:25.7567732+10:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 5.8913318 seconds
+2019-06-25T22:54:25.7567732+10:00:Thread#0: Test #4/2 is started on thread #0
+2019-06-25T22:54:25.7577720+10:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.

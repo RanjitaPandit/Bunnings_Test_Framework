@@ -1,0 +1,52 @@
+﻿2019-06-25T22:51:06.0568961+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-25T22:51:06.0568961+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-25T22:51:06.0568961+10:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-25T22:51:06.0957921+10:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T22:51:06.0967894+10:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\TestResults" (default)
+2019-06-25T22:51:06.0967894+10:00;VSTestExecutionThread;Info;Profile: 
+2019-06-25T22:51:06.1197631+10:00;VSTestExecutionThread;Info;Log file path: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\TestResults\Unnamed project__2019-06-25T225106.log
+2019-06-25T22:51:06.1217566+10:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T22:51:06.1307011+10:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-25T22:51:06.1386772+10:00;Thread#13;Info;Checking license
+2019-06-25T22:51:06.1386772+10:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T22:51:06.1396750+10:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-25T22:51:06.1546366+10:00;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-06-25T22:51:13.1578376+10:00;Thread#13;Info;Evaluation delay finished.
+2019-06-25T22:51:13.1615953+10:00;Thread#13;Info;License check completed
+2019-06-25T22:51:13.1615953+10:00;Thread#13;Info;starting test run
+2019-06-25T22:51:13.1795950+10:00;Thread#13;Info;Discovering target: Default
+2019-06-25T22:51:13.1795950+10:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T22:51:13.6111187+10:00:Appdomain Disposed
+2019-06-25T22:51:13.6111187+10:00;Thread#13;Info;Discovered tests from assembly: C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\Bunnings.Specflow.dll
+2019-06-25T22:51:13.6121160+10:00:Test Suite Dump
+2019-06-25T22:51:13.6131492+10:00:#0: Unnamed project/ - 
+2019-06-25T22:51:13.6131492+10:00:#1: Default - 
+2019-06-25T22:51:13.6131492+10:00:#2: Bunnings.Specflow - 
+2019-06-25T22:51:13.6131492+10:00:#3: Add an item to Wish List - 
+2019-06-25T22:51:13.6560004+10:00:#4: Add an item to Wish List - TestAssembly:Bunnings.Specflow/Feature:Add+an+item+to+Wish+List/Scenario:Add+an+item+to+Wish+List
+2019-06-25T22:51:13.6560004+10:00:End: Test Suite Dump
+2019-06-25T22:51:13.6769445+10:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-25T22:51:13.6779418+10:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-25T22:51:13.6779418+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-25T22:51:13.6809336+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-25T22:51:13.6809336+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-25T22:51:13.6809336+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-25T22:51:13.6809336+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-25T22:51:13.6819308+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-25T22:51:13.6819308+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-25T22:51:13.6839254+10:00:Thread #0: creating new test thread executor for Bunnings.Specflow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-25T22:51:13.6849227+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T22:51:13.6849227+10:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-25T22:51:13.6859204+10:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-25T22:51:13.8141741+10:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-25T22:51:13.9887597+10:00:Thread#0:T:-> Loading plugin C:\Users\Ranjita\Desktop\AKQA\Final\New\Bunnings\Bunnings.Specflow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-06-25T22:51:13.9997301+10:00:Thread#0:T:-> Using default config
+2019-06-25T22:51:41.6928730+10:00:Thread#0:B:Given I click on Search Bar and enter the keyword
+2019-06-25T22:51:45.8745941+10:00:Thread#0:T:done: AddItem.GivenIClickOnSearchBar() (4.2s)
+2019-06-25T22:51:48.0963987+10:00:Thread#0:B:Given Select an Item from the Product List
+2019-06-25T22:51:50.6978979+10:00:Thread#0:T:done: AddItem.GivenSelectAnItemFromTheProductList() (2.6s)
+2019-06-25T22:51:52.0266399+10:00:Thread#0:B:Given I enter Product details
+2019-06-25T22:51:52.2675791+10:00:Thread#0:T:done: AddItem.GivenIEnterProductDetails() (0.2s)
+2019-06-25T22:51:52.9204011+10:00:Thread#0:B:When I click on Add to Wish List
+2019-06-25T22:51:53.0540545+10:00:Thread#0:T:done: AddItem.WhenIClickOnAddToWishList() (0.1s)
+2019-06-25T22:51:53.9095463+10:00:Thread#0:B:Then The item should Successfully be added to My Wish List
