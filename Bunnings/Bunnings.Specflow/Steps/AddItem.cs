@@ -15,10 +15,8 @@ namespace Bunnings.Specflow
         {
 
             //Click on Search Box
-            var p = new Product();
-            p.EnterKeyword();
-
-           
+            var EnterKeyword_Obj = new Product();
+            EnterKeyword_Obj.EnterKeyword();                       
             
         }
 
@@ -27,8 +25,8 @@ namespace Bunnings.Specflow
         public void GivenSelectAnItemFromTheProductList()
         {
             //Click
-            var Q = new Product();
-            Q.SelectProduct();
+            var SelectProduct_Obj = new Product();
+            SelectProduct_Obj.SelectProduct();
 
         }
 
@@ -36,28 +34,28 @@ namespace Bunnings.Specflow
         public void GivenIEnterProductDetails()
         {
             //Click 
-            var R = new Product();
-            R.ProductDetails();
+            var ProductDetails_Obj = new Product();
+            ProductDetails_Obj.ProductDetails();
         }
 
         [When(@"I click on Add to Wish List")]
         public void WhenIClickOnAddToWishList()
         {
             //Click 
-            var S = new Product();
-            S.AddItemToWishList();
+            var AddItemToWishList_Obj = new Product();
+            AddItemToWishList_Obj.AddItemToWishList();
         }
 
         [Then(@"The item should Successfully be added to My Wish List")]
         public void ThenTheItemShouldSuccessfullyBeAddedToMyWishList()
         {
             //Click 
-            var T = new Product();
-            T.ValidateAddedItem();
+            var ValidateAddedItem_Obj = new Product();
+            ValidateAddedItem_Obj.ValidateAddedItem();
 
-            //verify
-            var Z = new Product();
-            Z.verify();
+            //Verify
+            var Verify_Obj = new Product();
+            Verify_Obj.verify();
         }
 
     }
